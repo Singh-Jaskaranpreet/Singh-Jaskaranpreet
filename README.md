@@ -1,3 +1,1 @@
-Étudiant en informatique avec de solides bases en algorithmique, systèmes d’exploitation et réseaux. 
-
-Ce GitHub présente mes projets académiques et personnels, avec une attention particulière portée à la compréhension des concepts et à la qualité des implémentations.
+Computer Science student at Sorbonne Université. Passionate about algorithms, systems, distributed computing, AI and building software products. Currently looking to build scalable startups and open-source projects.
